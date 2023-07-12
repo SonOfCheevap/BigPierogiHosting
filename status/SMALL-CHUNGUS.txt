@@ -1,0 +1,7 @@
+Server Name: Small-Chungus
+Time Checked: 07/07/2023 22:30:07
+Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+4C8T @ 3.401ghz
+CPU usage: 1.6%[          ]100%
+Ram usage: 7052MB[*****     ]16340MB
+OS: Windows-10-10.0.14393-SP0
