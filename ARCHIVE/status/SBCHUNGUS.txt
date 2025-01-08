@@ -1,0 +1,7 @@
+Server Name: SBCHUNGUS
+Time Checked: 06/23/2023 14:35:19
+Intel64 Family 6 Model 45 Stepping 7, GenuineIntel
+8C8T @ 1.995ghz
+CPU usage: 13.7%[**        ] 100%
+Ram usage: 18821MB[********  ]24030MB
+OS: Windows-10-10.0.17763-SP0

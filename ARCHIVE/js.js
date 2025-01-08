@@ -205,9 +205,6 @@ function exit(){
 			} else if (counter4 === 16){
 				document.getElementById('html').style.backgroundImage = "url(95back/Waves.bmp)";
 				counter4++;
-			}else if (counter4 === 17){
-				document.getElementById('html').style.backgroundImage = "url(images/oppie.gif)";
-				counter4++;
 			} else {
 				document.getElementById('html').style.backgroundImage = "url(95back/asfdfasd.bmp)";
 				counter4 = 0;
